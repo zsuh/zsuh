@@ -15,7 +15,7 @@
 <div align="center">
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zsuh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <div align="center">
     <img  src="https://visitor-badge.glitch.me/badge?page_id=zsuh" />
 </div>
