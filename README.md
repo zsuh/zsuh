@@ -1,8 +1,5 @@
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.print(%22Hello,World!%22);你好%2C%20世界!&center=true&size=27">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zsuh&theme=dark&hide_border=true" />
 </div>
