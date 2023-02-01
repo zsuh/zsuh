@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=System.out.print("Hello+World!");Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=System.out.print("Hello+World!");你好+世界!)](https://git.io/typing-svg)
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zsuh&theme=dark&hide_border=true" />
