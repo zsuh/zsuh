@@ -4,7 +4,7 @@
 
 # Hello, I'm Zhang Suhao.
 ## About
-> Java开发、互联网
+> Java开发 热爱互联网 每天坚持写博客。
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zsuh&theme=dark&hide_border=true" />
@@ -18,10 +18,7 @@
 <div align="center">
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zsuh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
-<div>
-  <img  src="https://visitor-badge.glitch.me/badge?page_id=zsuh" />
-</div>
 
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/-C-1572B6?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/-Java-oringe?style=flat-square&logo=javascript)
