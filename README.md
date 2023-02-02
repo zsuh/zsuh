@@ -4,8 +4,7 @@
 
 # Hello, I'm Zhang Suhao.
 ## About
-- 热爱网络
-- 自学编程
+> Java开发、互联网
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zsuh&theme=dark&hide_border=true" />
