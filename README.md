@@ -2,9 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E5%81%87&width=435&lines=System.out.print(%22Hello+World!%22);%E4%BD%A0%E5%A5%BD+%E4%B8%96%E7%95%8C%EF%BC%81" alt="Typing SVG" /></a>
 </h1>
 
-# Hello, I'm Zhang Suhao.
-## About
-> Java开发 热爱互联网 每天坚持写博客。
+Hi,朋友。
+欢迎访问我的主页！
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zsuh&theme=dark&hide_border=true" />
