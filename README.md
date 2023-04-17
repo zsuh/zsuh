@@ -5,13 +5,12 @@
 Hi,朋友。
 欢迎访问我的主页！
 
-## 关于我
-
 <div class="top" style="text-align: center;">
     <img style="width: 130px; height: 130px; border-radius: 50%;" src="http://q2.qlogo.cn/headimg_dl?dst_uin=2544728048&spec=100" alt="头像">
     <h2 style="font-size: 20px;">张素豪</h2>
     醉拍春衫惜旧香，天将离恨恼天狂。
 </div>
+
 
 ## 关于我
 00后中职在读，梦想成为改变世界的码农。
