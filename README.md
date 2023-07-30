@@ -1,3 +1,3 @@
-## Hello 我是ZSH 一名来自郑州高三的学生
+## Hello! 欢迎来到我的GitHUb主页，随便看看吧
 ## 我的站点
 [晨讯博客](https://zsuh.cc)
