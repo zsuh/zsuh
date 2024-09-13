@@ -6,6 +6,8 @@
 ## 简介
 我是一名Java开发工程师（程序猿），专注于后端开发，AI视觉神经。
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsuh)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My Skill Set  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
