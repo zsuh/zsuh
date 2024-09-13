@@ -1,6 +1,6 @@
 ## Hi! My friend, you've finally found me
-我是一名Java开发工程师（程序猿），专注于后端开发，AI视觉神经。
-https://img.shields.io/badge/WeChat_ShNet_
+I am a Java backend developer from Zhengzhou, Henan Province, China
+I'm still a college student, and I'll do my best to be a world-changing programmer!
 
 ## 传送门
 [追溯恒](https://zsuh.cc/)
