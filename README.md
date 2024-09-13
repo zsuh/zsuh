@@ -1,10 +1,9 @@
-![敲代码](https://camo.githubusercontent.com/9ae27d9f8bc2367dcee59b2bbbbc19dc09da80051afdb7ef6fc4e397534eb03f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f636f64696e672e676966)
-
 ![头像](http://q1.qlogo.cn/g?b=qq&nk=2544728048&s=100)
 # [追溯恒](https://github.com/zsuh)
 
 ## 简介
 我是一名Java开发工程师（程序猿），专注于后端开发，AI视觉神经。
+https://img.shields.io/badge/WeChat_ShNet_
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsuh)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
@@ -31,22 +30,3 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
 </div>  
 
-## 项目
-### [项目1]
-- **简介**：[项目描述]
-- **链接**：[项目链接]
-
-### [项目2]
-- **简介**：[项目描述]
-- **链接**：[项目链接]
-
-## 联系我
-- **邮箱**：[你的邮箱]
-- **LinkedIn**：[你的LinkedIn链接]
-- **Twitter**：[你的Twitter链接]
-
-## 贡献指南
-如果你对我的项目感兴趣，并且想要贡献代码，请遵循[贡献指南]。
-
-## 许可证
-本项目采用[许可证名称]许可证。
