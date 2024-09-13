@@ -1,7 +1,4 @@
-![头像](http://q1.qlogo.cn/g?b=qq&nk=2544728048&s=100)
-# [追溯恒](https://github.com/zsuh)
-
-## 简介
+## Hi! My friend, you've finally found me
 我是一名Java开发工程师（程序猿），专注于后端开发，AI视觉神经。
 https://img.shields.io/badge/WeChat_ShNet_
 
