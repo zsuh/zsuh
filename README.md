@@ -8,7 +8,6 @@ I'm still a college student, and I'll do my best to be a world-changing programm
 [追溯恒](https://suhao.cc)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsuh)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 ## My Skill Set  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
